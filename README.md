@@ -68,25 +68,25 @@
 - ⚡Github statistics
 
 
-<p align="start">
-  <a href="https://git.io/streak-stats" style="display: inline-block;">
-    <img src="https://streak-stats.demolab.com?user=kadik23&theme=highcontrast" alt="GitHub Streak" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api?username=kadik23&show_icons=true&bg_color=00000000" alt="Anurag's GitHub stats"/>
-  </a>
-</p>
+  <p align="start">
+    <a href="https://git.io/streak-stats" style="display: inline-block;">
+      <img src="https://streak-stats.demolab.com?user=kadik23&theme=highcontrast" alt="GitHub Streak" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" style="display: inline-block;">
+      <img src="https://github-readme-stats.vercel.app/api?username=kadik23&show_icons=true&bg_color=00000000" alt="Anurag's GitHub stats"/>
+    </a>
+  </p>
 
 
 
 - 🔭Top languages
 
-  
-<p align="start">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadik23&bg_color=00000000" alt="Top Langs"/>
-  </a>
-</p>
+    
+  <p align="start">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadik23&bg_color=00000000" alt="Top Langs"/>
+    </a>
+  </p>
 <!--
 **kadik23/kadik23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
