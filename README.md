@@ -68,7 +68,7 @@
 - ⚡Github statistics
 
 
-<p align="center">
+<p align="start">
   <a href="https://git.io/streak-stats" style="display: inline-block;">
     <img src="https://streak-stats.demolab.com?user=kadik23&theme=highcontrast" alt="GitHub Streak" />
   </a>
