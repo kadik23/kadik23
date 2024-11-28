@@ -28,10 +28,6 @@
           </tr>
           <tr>
             <td align="center" width="96">
-              <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="48" height="48"/>
-              <br>Node.js
-            </td>
-            <td align="center" width="96">
               <img src="https://img.icons8.com/color/48/000000/express-js.png" alt="Express.js" width="48" height="48"/>
               <br>Express.js
             </td>
@@ -43,12 +39,12 @@
               <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" width="48" height="48"/>
               <br>Next.js
             </td>
-          </tr>
-          <tr>
-            <td align="center" width="96">
+              <td align="center" width="96">
               <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="48" height="48"/>
               <br>MySQL
             </td>
+          </tr>
+          <tr>
             <td align="center" width="96">
               <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="48" height="48"/>
               <br>MongoDB
@@ -56,6 +52,10 @@
             <td align="center" width="96">
               <img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="Docker" width="48" height="48"/>
               <br>Docker
+            </td>
+            <td align="center" width="96">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"/>
+              <br>Electron.js
             </td>
             <td align="center" width="96">
               <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="48" height="48"/>
