@@ -2,6 +2,7 @@
 - 🌱 Bachelor graduate in computer science  
 - 📫 How to reach me:
   ## kadiksalah03@gmail.com  
+- ⚡All of my projects are available at https://salah-kadik.vercel.app/home
 - 😄 Connect with me:  
   [![LinkedIn](https://img.icons8.com/fluent/64/000000/linkedin.png)](https://dz.linkedin.com/in/salah-eddine-kadik-6b3889284)  
 
