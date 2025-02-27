@@ -70,9 +70,7 @@
 
 
   <p align="start">
-    <a href="https://git.io/streak-stats" style="display: inline-block;">
-      <img src="https://streak-stats.demolab.com?user=kadik23&theme=highcontrast" alt="GitHub Streak" />
-    </a>
+[![GitHub Streak](https://github-readme-streak-stats-five-sand.vercel.app?user=kadik23&theme=android-dark)](https://git.io/streak-stats)
     <a href="https://github.com/anuraghazra/github-readme-stats" style="display: inline-block;">
       <img src="https://github-readme-stats.vercel.app/api?username=kadik23&show_icons=true&bg_color=00000000" alt="Anurag's GitHub stats"/>
     </a>
